@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm sumit sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2c73d628b029657fcefac16bd04e81c13be91f49cef3167e9aa08eb1f776c9cd/68747470733a2f2f7777772e6f6e6c696e65636f757273657265706f72742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f7368757474657273746f636b5f313135303531303630372d31303234783531322e6a7067">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsagar123&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsagar" /> </p> 
